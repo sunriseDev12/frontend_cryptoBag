@@ -1,0 +1,83 @@
+.Logo1{
+width:100px;
+margin-left: 30px;
+}
+
+.rowheight{
+background-color: black;
+height: 60px;
+}
+
+/* .fluids{
+    height: 40px;
+} */
+
+.profiles{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ccart{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    /* margin-left: 20px; */
+    /* margin-left: 210px; */
+    /* margin-left: 16px; */
+}
+
+.signoout{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    /* margin-left: 16px; */
+}
+
+
+.trac{
+background-color: transparent;
+color: #fafafa;
+font-size: 18px;
+margin-top: 10px; 
+margin-left: 34px;
+
+}
+
+.acc{
+    background-color: transparent;
+    color: #fafafa;
+    font-size: 18px;
+    margin-top: 10px;
+    /* margin-left: 206px; */
+    /* margin-left: 86px; */
+    
+}
+
+.shoe{
+    background-color: transparent;
+    color: #fafafa;
+    font-size: 18px;
+    margin-top: 10px;
+    /* margin-left: 250px; */
+    /* margin-left: 86px; */
+  
+}
+
+.jack{
+    background-color: transparent;
+    color: #fafafa;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: -23px;
+}
+
+
+/* .jack::after{
+   color: #c3c3c3;
+   border: 1px solid #c3c3c3;
+    
+  
+} */

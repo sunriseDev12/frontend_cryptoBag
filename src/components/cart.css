@@ -1,0 +1,124 @@
+.cartContainer{
+    /* border: 2px solid red; */
+    background-color: #FFFFFF;
+    position: relative;
+    top: 56px; 
+    border-radius: 10px;
+  
+}
+.holeCart{
+    background-color: #fafafa;
+    height: 800px;
+}
+
+
+
+
+.rightContent{
+    text-align: right;
+}
+
+.rig{
+display: flex;
+justify-content: space-between;
+}
+
+.leftContent{
+    color: #898989;
+}
+
+.shipTax{
+    color: #898989;
+    margin-left: 80px;
+    margin-top: 10px;
+    
+}
+
+.subtotal{
+    font-size: 24px;
+}
+.subtotal1{
+    font-size: 24px;
+    color: #3695CE;
+}
+
+
+
+.cartHead{
+    font-size: 30px;
+    font-family: Rubik Bold;
+    font-weight: 900;
+    margin-left: 40px;
+
+    margin-top: 20px;
+}
+
+.cartBtn{
+    width: 335px;
+    height: 46px;
+    font-weight: 500;
+    border: none;
+    color: white;
+    background-color: #3695CE;
+    border-radius: 10px;  
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+}
+
+.continueShop{
+    color: green;
+    font-size: 18px;
+    margin-left: -16px;
+   
+}
+.continueShop:hover{
+    color: green;
+    text-decoration: none;
+   
+    
+   
+}
+
+
+
+.minus{
+    background-color: none;
+    border:none;
+  
+    margin-left: 17px;
+    border-radius: 24px;
+    text-align: center;
+    background-color: #c2c2c2;
+    position: relative;
+}
+
+button.plus {
+    margin-left: -21px;
+    margin-right: 10px;
+    border-radius: 24px;
+    background-color: none;
+    border:none;
+    background-color: #c2c2c2;
+}
+
+.quanity{
+    margin-left: 10px;
+    width: 33px;
+    text-align: center;
+}
+
+
+p.removecart {
+    margin-left: 13px;
+    color: red;
+    cursor: pointer
+}
+
+
+img.cartImage {
+    width: 136px;
+    height: 98px;
+    margin-top: 29px;
+    /* height: 100px; */
+}

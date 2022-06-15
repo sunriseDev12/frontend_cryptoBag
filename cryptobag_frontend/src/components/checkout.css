@@ -1,0 +1,158 @@
+.check{
+    font-size: 30px;
+    font-weight: 500;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    
+}
+
+
+.contact,  .shippingAdd{
+    font-size: 21px;
+    margin-left: 16px;
+}
+
+
+.alert {
+    font-size: 16px;
+    margin-left: 131px;
+    margin-top: -8px;
+}
+/* input.getMobileInput{
+    width: 225px;
+    margin-top: 10px;
+    border: 1px solid #c2c2c2;
+    border-radius: 10px;
+} */
+
+input.getMobileInput,.getcomany ,.getaddress, .getApart, .getcity ,.getFirstnameInput1,.getLastnameInput1,.getPincode ,.country{
+    /* width: 225px; */
+    width: 100%;
+    height: 37px;
+    margin-top: 10px;
+   
+    border: 1px solid #c2c2c2;
+    border-radius: 9px;
+    position: relative;
+    left:20px;
+}
+
+label.checkMail2 {
+    margin-left: 10px;
+    margin-top: 10px;
+    /* font-size: 18px; */
+}
+
+label.chekMail1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+input#checkMail2 {
+    margin-left: 24px;
+    font-size: 18px;
+    margin-top: 10px; 
+    
+}
+input#checkMail1 {
+    margin-left: 24px;
+    font-size: 18px;
+    margin-top: 10px; 
+    
+}
+
+.order{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.pay,.orderValue{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p.productDisplay {
+    color: red;
+}
+
+.loginA{
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+/* .leftgrid{
+    background-color: red;
+} */
+
+.rightgrid{
+    /* background-color: green; */
+    background-color: #ffffff;
+    margin-top: 50px;
+}
+
+.fullgrid{
+    /* background-color: blue; */
+    background-color: #fafafa;
+}
+
+
+.productBtn,.productBtn2 {
+    /* background-color: black; */
+    color: #898989;
+    width: 167px;
+    height: 43px;
+    margin-top:10px;    
+    border-radius: 10px;
+    border: none;
+    font-weight: 500;
+    
+    margin-bottom: 10px;
+}
+
+.productBtn:hover,.productBtn2:hover{
+border:1px solid #3695CE;
+color: #3695CE;
+
+
+}
+
+::placeholder{
+    padding-left: 10px;;
+}
+
+.rate1,.rate2{
+    margin-left: 10px;
+}
+
+
+.chechHEad{
+    font-size: 36px;
+    font-weight: 600;
+  
+    margin-top: 20px;
+}
+
+.productNull{
+    margin-top: 60px;
+    width:300px;
+    height:300px
+}
+
+button.purchase{
+    margin-top: 25px;
+    width: 300px;
+    height: 46px;
+    font-weight: 500;
+    border: none;
+    color: white;
+    background-color: #3695CE;
+    border-radius: 10px; 
+    /* margin-left: 20px;  */
+    margin-left: 76px;
+}
+
+.noPRoduct{
+    color: #c2c2c2;
+    margin-left: 100px;
+}

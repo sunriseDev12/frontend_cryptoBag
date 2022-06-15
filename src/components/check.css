@@ -1,0 +1,87 @@
+.check01{
+    font-size: 30px;
+    margin-left: 477px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.checkContainer{
+    background-color: #FFFFFF;
+    position: relative;
+    top: 20px;
+    /* margin-top: 20px;
+     */
+    /* border: 1px solid green; */
+}
+
+.getCheckMobile,.companyCheck,.aadressCheck,.apartCheck,.firstCheck,.firstCheck1,.pinCheck,.cityCheck,.countryCheck,.stateCheck{
+    width:100%;
+    /* width: 585px; */
+    height:50px;    
+    margin-top: 20px;
+    border: 1px solid #c2c2c2;
+    border-radius: 10px;
+}
+
+.checkContact,.adressCheck{
+   
+        font-size: 26px;
+        margin-top: 20px;
+      
+  
+}
+.btnCheck{
+    width: 335px;
+    height: 46px;
+    font-weight: 500;
+    border: none;
+    color: white;
+    background-color: #3695CE;
+    border-radius: 10px;  
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+}
+
+.mailCheck2{
+    font-size: 18px;
+    margin-top: 30px; 
+}
+
+.holeChec{
+    background-color: #fafafa;
+    height:870px
+}
+
+
+.cartImage{
+    width:150px;
+    height: 150px;
+}
+
+p.headDes,.amount ,.headquanity,.headtotal{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 42px;
+}
+
+.quanity {
+    width: 45px;
+    margin-left: 33px;
+    margin-top: 32px;
+}
+
+p.remove {
+    margin-left: 13px;
+    color: red;
+    cursor: pointer
+}
+
+.hrline {
+    width: 100px;
+    margin-left: -4px;
+}
+
+p.cartdesc ,.price,.totalprice{
+    margin-top: 38px;
+}
